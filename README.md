@@ -36,4 +36,6 @@ This project was created as part of an internship task to explore Bootstrap 5 an
 - Learned UI and responsive design
 - Gained confidence in building structured and simple web pages
 - learned importance of documentation
-  
+
+##Live Site 
+https://mahalakshmiattili2305.github.io/UIProject/
