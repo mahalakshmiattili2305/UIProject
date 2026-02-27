@@ -23,13 +23,17 @@ This project was created as part of an internship task to explore Bootstrap 5 an
 - Understanding Bootstrap grid layout
 - Maintaining consistent spacing and alignment
 - Making layouts responsive
+- selecting colors
 
 ## How I Solved Them
 - Referred to Bootstrap documentation
 - Used Bootstrap utility classes
 - Tested layouts by resizing the browser
+- by testing with different colors I finally which looks better for official web page
 
 ## Learning Outcome
 - Improved understanding of Bootstrap 5 along with how to use it in html document
 - Learned UI and responsive design
 - Gained confidence in building structured and simple web pages
+- learned importance of documentation
+  
